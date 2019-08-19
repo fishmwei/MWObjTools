@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MWObjTools_Example' do
+  pod 'MWObjTools', :path => '../'
+
+  target 'MWObjTools_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
