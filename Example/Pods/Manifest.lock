@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MWObjTools (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MWObjTools (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MWObjTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MWObjTools: 8475a424d7f73bd75e2e13167c362a09e3167075
+
+PODFILE CHECKSUM: 7be4446173bf158e827f97fda37b0d5a1fc9cb57
+
+COCOAPODS: 1.7.3

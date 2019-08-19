@@ -1,0 +1,6 @@
+framework module MWObjTools {
+  umbrella header "MWObjTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MWObjTools",
+  "version": "0.1.0",
+  "summary": "A short description of MWObjTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fishmwei/MWObjTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fishmwei": "huangmingwei88@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fishmwei/MWObjTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MWObjTools/Classes/**/*"
+}
